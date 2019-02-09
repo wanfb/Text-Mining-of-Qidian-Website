@@ -1,0 +1,12 @@
+环境：
+	1. Spyder 3
+	2. Python 3.6
+库：
+	3. jieba
+	4. Gensim 3.4.0
+	5. pandas
+
+词向量模型：	使用预训练的word2vector模型
+		参见：https://github.com/Embedding/Chinese-Word-Vectors
+		iterature 文学作品，Word + Ngram模型
+
