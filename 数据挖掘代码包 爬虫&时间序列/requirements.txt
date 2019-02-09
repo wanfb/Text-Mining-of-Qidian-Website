@@ -1,11 +1,9 @@
-»·¾³£º
-	1. Python 3.6
-¿â£º
-	1. pyquery
-	2. pandas
-	3. numpy
-	4. matplotlib
-	5. statsmodels
-	6. pandasql
+1. Python 3.6
+2. pyquery
+3. pandas
+4. numpy
+5. matplotlib
+6. statsmodels
+7. pandasql
 
 
