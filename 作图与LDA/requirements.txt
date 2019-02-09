@@ -1,7 +1,6 @@
-
-	1. Spyder 3.3.2
-	2. Python 3.6.5
-	3. Seaborn 0.9.0
-	4. Nltk 3.3
-	5. Gensim 3.4.0
-	6. Wordcloud 1.5.0
+1. Spyder 3.3.2
+2. Python 3.6.5
+3. Seaborn 0.9.0
+4. Nltk 3.3
+5. Gensim 3.4.0
+6. Wordcloud 1.5.0
