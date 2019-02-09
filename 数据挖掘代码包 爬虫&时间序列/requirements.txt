@@ -1,0 +1,11 @@
+»·¾³£º
+	1. Python 3.6
+¿â£º
+	1. pyquery
+	2. pandas
+	3. numpy
+	4. matplotlib
+	5. statsmodels
+	6. pandasql
+
+
