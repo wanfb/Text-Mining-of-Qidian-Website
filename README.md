@@ -11,10 +11,10 @@ The whole project is devided into three parts:
 <img src="https://github.com/wanfb/Text-Mining-of-Qidian-Website/blob/master/images/variables.JPG" width = "600" height = "400" align=center />
 
 ### K-means model
-<img src="https://github.com/wanfb/Text-Mining-of-Qidian-Website/blob/master/images/K-Means%20model.JPG" width = "600" height = "400" align=center />
+<img src="https://github.com/wanfb/Text-Mining-of-Qidian-Website/blob/master/images/K-Means%20model.JPG" width = "600" height = "300" align=center />
 
 ### LDA model
-<img src="https://github.com/wanfb/Text-Mining-of-Qidian-Website/blob/master/images/LDA.JPG" width = "600" height = "400" align=center />
+<img src="https://github.com/wanfb/Text-Mining-of-Qidian-Website/blob/master/images/LDA.JPG" width = "600" height = "300" align=center />
 
 ### Time Series model
 <img src="https://github.com/wanfb/Text-Mining-of-Qidian-Website/blob/master/images/Time%20Series.JPG" width = "600" height = "400" align=center />
